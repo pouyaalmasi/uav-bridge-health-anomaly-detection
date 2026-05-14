@@ -59,13 +59,13 @@ The framework computes:
 │   └── prediction_inference.m
 │
 ├── sample_images/
-│   ├── bridge_sample_1.jpg
-│   ├── bridge_sample_2.jpg
+│   ├── 01.png
+│   ├── 02.png
 │   └── ...
 │
 ├── sample_results/
-│   ├── heatmap_bridge_sample_1.jpg
-│   ├── heatmap_bridge_sample_2.jpg
+│   ├── heatmap_01.png
+│   ├── heatmap_02.png
 │   └── ...
 │
 ├── model/
